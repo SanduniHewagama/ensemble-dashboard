@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Recall,F1,ROC-AUC,Time(s)
+Stacking,0.779,0.738,0.574,0.646,0.818,3.46
+AdaBoost (Boosting),0.76,0.681,0.593,0.634,0.817,0.64
+Random Forest (Bagging),0.74,0.652,0.556,0.6,0.816,0.92
+CatBoost (Boosting),0.721,0.612,0.556,0.583,0.815,0.72
+XGBoost (Boosting),0.753,0.66,0.611,0.635,0.814,2.93
+LightGBM (Boosting),0.76,0.667,0.63,0.648,0.807,0.22

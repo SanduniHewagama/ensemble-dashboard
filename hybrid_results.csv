@@ -1,0 +1,4 @@
+Model,RMSE,R2
+Random Forest,54.757,0.434
+ANN,55.535,0.418
+RF + ANN Hybrid,52.446,0.481
